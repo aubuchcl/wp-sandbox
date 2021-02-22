@@ -1,6 +1,6 @@
 FROM wordpress:latest
 
-COPY ./wordpress/* /var/www/html/
+COPY ./ /var/www/html/
 
 
 
